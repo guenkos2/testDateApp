@@ -1,0 +1,244 @@
+{
+  "pages": [
+    {
+      "id": "page1",
+      "background": "background1",
+      "foreground": "foreground1",
+      "text": "text1",
+      "options": [
+        {
+          "text": "Page 1 - option 1 text",
+          "navigateTo": "page2"
+        },
+        {
+          "text": "Page 1 - option 2 text",
+          "navigateTo": "page3"
+        },
+        {
+          "text": "Page 1 - option 3 text",
+          "navigateTo": "page4"
+        },
+        {
+          "text": "Page 1 - option 4 text",
+          "navigateTo": "page5"
+        }
+      ]
+    },
+    {
+      "id": "page2",
+      "background": "background2",
+      "foreground": "foreground2",
+      "text": "text2",
+      "options": [
+        {
+          "text": "Page 2 - option 1 text",
+          "navigateTo": "page3"
+        },
+        {
+          "text": "Page 2 - option 2 text",
+          "navigateTo": "page4"
+        },
+        {
+          "text": "Page 2 - option 3 text",
+          "navigateTo": "page5"
+        },
+        {
+          "text": "Page 2 - option 4 text",
+          "navigateTo": "page1"
+        }
+      ]
+    },
+    {
+      "id": "page3",
+      "background": "background3",
+      "foreground": "foreground3",
+      "text": "text3",
+      "options": [
+        {
+          "text": "Page 3 - option 1 text",
+          "navigateTo": "page4"
+        },
+        {
+          "text": "Page 3 - option 2 text",
+          "navigateTo": "page5"
+        },
+        {
+          "text": "Page 3 - option 3 text",
+          "navigateTo": "page1"
+        },
+        {
+          "text": "Page 3 - option 4 text",
+          "navigateTo": "page6"
+        }
+      ]
+    },
+    {
+      "id": "page4",
+      "background": "background4",
+      "foreground": "foreground4",
+      "text": "text4",
+      "options": [
+        {
+          "text": "Page 4 - option 1 text",
+          "navigateTo": "page5"
+        },
+        {
+          "text": "Page 4 - option 2 text",
+          "navigateTo": "page6"
+        },
+        {
+          "text": "Page 4 - option 3 text",
+          "navigateTo": "page1"
+        },
+        {
+          "text": "Page 4 - option 4 text",
+          "navigateTo": "page7"
+        }
+      ]
+    },
+    {
+      "id": "page5",
+      "background": "background5",
+      "foreground": "foreground5",
+      "text": "text5",
+      "options": [
+        {
+          "text": "Page 5 - option 1 text",
+          "navigateTo": "page6"
+        },
+        {
+          "text": "Page 5 - option 2 text",
+          "navigateTo": "page1"
+        },
+        {
+          "text": "Page 5 - option 3 text",
+          "navigateTo": "page7"
+        },
+        {
+          "text": "Page 5 - option 4 text",
+          "navigateTo": "page8"
+        }
+      ]
+    },
+    {
+      "id": "page6",
+      "background": "background6",
+      "foreground": "foreground6",
+      "text": "text6",
+      "options": [
+        {
+          "text": "Page 6 - option 1 text",
+          "navigateTo": "page1"
+        },
+        {
+          "text": "Page 6 - option 2 text",
+          "navigateTo": "page7"
+        },
+        {
+          "text": "Page 6 - option 3 text",
+          "navigateTo": "page8"
+        },
+        {
+          "text": "Page 6 - option 4 text",
+          "navigateTo": "page9"
+        }
+      ]
+    },
+    {
+      "id": "page7",
+      "background": "background7",
+      "foreground": "foreground7",
+      "text": "text7",
+      "options": [
+        {
+          "text": "Page 7 - option 1 text",
+          "navigateTo": "page8"
+        },
+        {
+          "text": "Page 7 - option 2 text",
+          "navigateTo": "page9"
+        },
+        {
+          "text": "Page 7 - option 3 text",
+          "navigateTo": "page1"
+        },
+        {
+          "text": "Page 7 - option 4 text",
+          "navigateTo": "page10"
+        }
+      ]
+    },
+    {
+      "id": "page8",
+      "background": "background8",
+      "foreground": "foreground8",
+      "text": "text8",
+      "options": [
+        {
+          "text": "Page 8 - option 1 text",
+          "navigateTo": "page9"
+        },
+        {
+          "text": "Page 8 - option 2 text",
+          "navigateTo": "page1"
+        },
+        {
+          "text": "Page 8 - option 3 text",
+          "navigateTo": "page10"
+        },
+        {
+          "text": "Page 8 - option 4 text",
+          "navigateTo": "page2"
+        }
+      ]
+    },
+    {
+      "id": "page9",
+      "background": "background9",
+      "foreground": "foreground9",
+      "text": "text9",
+      "options": [
+        {
+          "text": "Page 9 - option 1 text",
+          "navigateTo": "page10"
+        },
+        {
+          "text": "Page 9 - option 2 text",
+          "navigateTo": "page1"
+        },
+        {
+          "text": "Page 9 - option 3 text",
+          "navigateTo": "page2"
+        },
+        {
+          "text": "Page 9 - option 4 text",
+          "navigateTo": "page3"
+        }
+      ]
+    },
+    {
+      "id": "page10",
+      "background": "background10",
+      "foreground": "foreground10",
+      "text": "text10",
+      "options": [
+        {
+          "text": "Page 10 - option 1 text",
+          "navigateTo": "page1"
+        },
+        {
+          "text": "Page 10 - option 2 text",
+          "navigateTo": "page2"
+        },
+        {
+          "text": "Page 10 - option 3 text",
+          "navigateTo": "page3"
+        },
+        {
+          "text": "Page 10 - option 4 text",
+          "navigateTo": "page4"
+        }
+      ]
+    }
+  ]
+}
